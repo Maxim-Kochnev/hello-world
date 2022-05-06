@@ -5,6 +5,10 @@
 
 first repository on github.com
 
+## About me
+
+My name is Maxim
+
 ---
 
 ## Markdown Syntax (cheat-sheet)
